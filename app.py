@@ -8,3 +8,5 @@ number = input("Enter a number: ")
 value = float(number)
 result = value*5
 
+# Display result
+print(f"Your number multiplied by 5 is: {result}")
